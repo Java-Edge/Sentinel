@@ -31,18 +31,18 @@
         <module>sentinel-demo-apache-httpclient</module>
         <module>sentinel-demo-sofa-rpc</module>
         <module>sentinel-demo-spring-cloud-gateway</module>
-        <module>sentinel-demo-zuul-gateway</module>
+<!--        <module>sentinel-demo-zuul-gateway</module>-->
         <module>sentinel-demo-etcd-datasource</module>
         <module>sentinel-demo-spring-webmvc</module>
-        <module>sentinel-demo-zuul2-gateway</module>
+<!--        <module>sentinel-demo-zuul2-gateway</module>-->
         <module>sentinel-demo-log-logback</module>
         <module>sentinel-demo-okhttp</module>
-        <module>sentinel-demo-jax-rs</module>
-        <module>sentinel-demo-quarkus</module>
+<!--        <module>sentinel-demo-jax-rs</module>-->
+<!--        <module>sentinel-demo-quarkus</module>-->
         <module>sentinel-demo-annotation-cdi-interceptor</module>
-        <module>sentinel-demo-motan</module>
+<!--        <module>sentinel-demo-motan</module>-->
         <module>sentinel-demo-transport-spring-mvc</module>
-        <module>sentinel-demo-opensergo-datasource</module>
+<!--        <module>sentinel-demo-opensergo-datasource</module>-->
     </modules>
 
     <dependencies>
